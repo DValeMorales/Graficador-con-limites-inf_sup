@@ -1,0 +1,7 @@
+
+
+copiar en la carpeta de JAVA en las siguientes subcarpetas:
+
+
+rxtxcomm-2.2	 	:	 Jre/lib
+rxtxSerial.dll		:	 Jre/bin
